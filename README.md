@@ -17,3 +17,15 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewookim02&layout=compact)](https://github.com/taewookim02/github-readme-stats)
 ![taewoo's github stats](https://github-readme-stats.vercel.app/api?username=taewookim02&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=taewookim02&theme=onedark)](https://github.com/taewookim02/github-profile-trophy)
+
+```mermaid
+  journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 3: Me
+```
