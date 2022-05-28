@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![taewoo's github stats](https://github-readme-stats.vercel.app/api?username=taewookim02&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=taewookim02&theme=onedark)](https://github.com/taewookim02/github-profile-trophy)
 
+<!--
 ```mermaid
   journey
     title My working day
@@ -29,3 +30,4 @@ Here are some ideas to get you started:
       Go downstairs: 5: Me
       Sit down: 3: Me
 ```
+-->
