@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=taewookim02&label=P+V&color=0d4429)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewookim02&layout=compact)
 <!--
 
