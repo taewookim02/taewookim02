@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=taewookim02&label=P+V&color=0d4429)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewookim02&layout=compact)](https://github.com/taewookim02/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewookim02&layout=compact)
 <!--
 
 ![taewoo's github stats](https://github-readme-stats.vercel.app/api?username=taewookim02&show_icons=true&theme=radical)
