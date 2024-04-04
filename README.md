@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewookim02&layout=compact&theme=default)](https://github.com/taewookim02/github-readme-stats)
-
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewookim02&layout=compact&theme=default)](https://github.com/taewookim02/github-readme-stats)-->
+[![taewookim02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taewookim02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/taewookim02)
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaewookim02&count_bg=%23238636&title_bg=%23151515&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://komarev.com/ghpvc/?username=taewookim02&label=pv&color=563d7c)
